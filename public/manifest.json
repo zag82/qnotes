@@ -1,0 +1,41 @@
+{
+  "short_name": "QNotes",
+  "name": "QNotes - quick notes application",
+  "icons": [
+    {
+      "src": "qnotes16.png",
+      "type": "image/png",
+      "sizes": "16x16"
+    },
+    {
+      "src": "qnotes24.png",
+      "type": "image/png",
+      "sizes": "24x24"
+    },
+    {
+      "src": "qnotes32.png",
+      "type": "image/png",
+      "sizes": "32x32"
+    },
+    {
+      "src": "qnotes64.png",
+      "type": "image/png",
+      "sizes": "64x64"
+    },
+
+    {
+      "src": "qnotes192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "qnotes512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#f5f5f5",
+  "background_color": "#263238"
+}
